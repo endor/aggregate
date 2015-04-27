@@ -5,6 +5,7 @@ Bundler.require
 
 require_relative 'ad_action'
 require_relative 'ad_statistic'
+require_relative 'statistics'
 
 set :logging, true
 set :debug, true
