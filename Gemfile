@@ -8,6 +8,7 @@ gem 'dm-postgres-adapter'
 gem 'dm-migrations'
 gem 'dm-timestamps'
 gem 'dm-types'
+gem 'activesupport'
 
 group :development do
   gem 'rspec'
